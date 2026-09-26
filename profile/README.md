@@ -1,33 +1,19 @@
-# STEM AI Studio
+# STEM AI Studio Classroom
 
-STEM AI Studio is a hands-on project environment for learning applied AI and modern
-data practice through a shared fictional scenario.
+This GitHub organization supports hands-on learning in artificial intelligence,
+machine learning, data engineering, data analysis, computer vision, and GIS.
 
-## Project areas
+## How course repositories are organized
 
-- **Introduction to Machine Learning and Data Science** — reproducible model-building
-  and decision support with transparent evaluation.
-- **Data Engineering** — reliable ingestion, transformation, validation, orchestration,
-  and data-product workflows.
-- **Computer Vision** — responsible image and spatial-media analysis using supplied,
-  non-personal assets.
-- **Exploratory Data Analysis** — clear, auditable investigation of patterns,
-  uncertainty, assumptions, and limitations.
-- **Geographic Information Systems** — spatial analysis, mapping, data quality, and
-  responsible location-data practice.
+For each course, students may be given access to:
 
-## Apex Facilities Platform
+- **Practical Lab Examples** — read-only worked examples for learning and practice.
+- **Graded Labs** — read-only lab instructions and starter files.
+- **Your private course repository** — the place to complete work, commit changes,
+  and push your submissions.
 
-The Apex Facilities Platform is a fictional, AI- and analytics-enabled facilities
-maintenance environment. Its synthetic records connect operational, asset, workforce,
-quality, supply, finance, research, and spatial domains for realistic practice without
-exposing real people or organizations.
+Do not push student work to either instructor repository. Follow the course
+instructions in D2L for the correct lab folder and submission link. D2L is the
+official location for assignment instructions, submissions, grades, and feedback.
 
-## Safety and access
-
-Public material is sanitized and contains no credentials, private infrastructure,
-learner records, submissions, grades, or instructor-only solutions. Individual learner
-repositories and assessed work remain private and use least-privilege access.
-
-This organization is an independent project-learning workspace and is not presented as
-an official service of an educational institution or external organization.
+Repository access is limited to the courses in which each learner is enrolled.
